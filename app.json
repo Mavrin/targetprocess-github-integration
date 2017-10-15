@@ -1,0 +1,12 @@
+{
+    "name": "Integration between Targetprocess and Github",
+    "description": "",
+    "keywords": [
+      "Targetprocess",
+      "Github"
+    ],
+    "image": "heroku/go:1.9.1",
+    "mount_dir": "src/github.com/Mavrin/targetprocess-github-integration",
+    "website": "http://github.com/Mavrin/targetprocess-github-integration",
+    "repository": "http://github.com/Mavrin/targetprocess-github-integration"
+  }
